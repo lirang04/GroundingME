@@ -32,7 +32,8 @@ Current benchmarks fail to capture real-world complexity where humans effortless
 
 ```bash
 # Clone the repository
-cd groundingme
+git clone https://github.com/lirang04/GroundingME.git
+cd GroundingME
 
 # Install dependencies
 pip install datasets pillow tqdm openai
